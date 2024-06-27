@@ -22,4 +22,6 @@ Este é um repositório focado no aprendizado de Git e GitHub.
   * Item
   Ordenadas:
   1. Item
+  2. **Item**
+  3. *Item*
 
