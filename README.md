@@ -34,7 +34,7 @@ Este é um repositório focado no aprendizado de Git e GitHub.
 #### Links
 
 - para links usa-se o comando:
-* [texto do link](link)
+* \[texto do link\](\link\)
 * [Google](google.com)
 
 
