@@ -18,6 +18,8 @@ Este é um repositório focado no aprendizado de Git e GitHub.
 #### Listas
 
 - para as listas ordenadas e nao ordenadas usa-se estes comandos:
-  Não ordenadas: * Item
-  Ordenadas 1. Item
+  Não ordenadas:
+  * Item
+  Ordenadas 
+  1. Item
 
