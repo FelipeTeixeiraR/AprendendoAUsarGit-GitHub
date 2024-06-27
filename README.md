@@ -37,6 +37,11 @@ Este é um repositório focado no aprendizado de Git e GitHub.
 * \[texto do link\](\link\)
 * [Google](google.com)
 
+#### Código fonte
+
+- para inserir os codigos voce po usar o comando:
+  * ''' código '''
+
 
 
 
