@@ -29,5 +29,6 @@ Este é um repositório focado no aprendizado de Git e GitHub.
 
 - Para imagens usa-se o comando:
   ![Texto Alt](link img);
+- ![gitHubImage](https://play.google.com/store/apps/details?id=com.github.android&hl=en_US);
 
 
