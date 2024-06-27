@@ -40,7 +40,7 @@ Este é um repositório focado no aprendizado de Git e GitHub.
 
 #### Código fonte
 
-- para inserir os codigos voce po usar o comando:
+- para inserir os codigos você pode usar o comando:
   * \``` código ```
 ```javascript
   function soma(a, b){
