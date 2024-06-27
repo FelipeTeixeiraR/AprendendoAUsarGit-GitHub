@@ -20,6 +20,6 @@ Este é um repositório focado no aprendizado de Git e GitHub.
 - para as listas ordenadas e nao ordenadas usa-se estes comandos:
   Não ordenadas:
   * Item
-  Ordenadas 
+  Ordenadas:
   1. Item
 
