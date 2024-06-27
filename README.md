@@ -31,4 +31,12 @@ Este é um repositório focado no aprendizado de Git e GitHub.
   ![Texto Alt](link img);
 ![gitHubImage](./Img/GitHubIMG.jpeg)
 
+#### Links
+
+- para links usa-se o comando:
+* [texto do link](link)
+* [Google](google.com)
+
+
+
 
