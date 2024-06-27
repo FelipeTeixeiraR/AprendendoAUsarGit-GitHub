@@ -7,4 +7,4 @@ Este é um repositório focado no aprendizado de Git e GitHub.
 #### Cabeçalhos
 
 Para criar umcabeçalho usa-se as "#" cada uma delas é um tipo de cabeçalho
-por ex: < # > => h1, < ## > => h2 (e assim por diante).
+por Ex:  < # > => h1, < ## > => h2 (e assim por diante).
