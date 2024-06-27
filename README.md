@@ -25,3 +25,9 @@ Este é um repositório focado no aprendizado de Git e GitHub.
   2. **Item**
   3. *Item*
 
+#### Inserir Imagem
+
+- Para imagens usa-se o comando:
+  ![Texto Alt](link img);
+
+
